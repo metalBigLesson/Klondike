@@ -13,6 +13,8 @@ class CardType {
 private:
 	int rank;
 	Suit suit;
+	bool isFront;
+	CardType* under;
 	string rankStr() {
 		switch (rank)
 		{
@@ -35,12 +37,26 @@ private:
 		}
 	}
 public:
+	CardType() {
+	}
 	CardType(int r, Suit s) {
+		init(r, s);
+	}
+	void init(int r, Suit s) {
 		rank = r;
 		suit = s;
+		isFront = false;
+		under = nullptr;
 	}
-	void printCard() {
-		cout << rankStr() << suitStr() << '\t';
+	void flip(bool front = true) {
+		isFront = front;
+	}
+	void print() {
+		if (!isFront) {
+			cout << "????\t";
+		}
+		else
+			cout << rankStr() << suitStr() << '\t';
 	}
 	bool isBlack() {
 		switch (suit)
@@ -50,4 +66,9 @@ public:
 			return false;
 		}
 	}
+};
+
+struct CardNode {
+	CardType card;
+	CardNode* next;
 };

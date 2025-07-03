@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\daeho\\source\\repos\\Solitaire\\",
+  "WorkspaceRootPath": "C:\\Users\\daeho\\source\\Klondike\\Solitaire\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A203F0D0-BE29-4DA4-93B6-60355E49D020}|Klondike\\Klondike.vcxproj|C:\\Users\\daeho\\source\\repos\\Solitaire\\Klondike\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A203F0D0-BE29-4DA4-93B6-60355E49D020}|Klondike\\Klondike.vcxproj|C:\\Users\\daeho\\source\\Klondike\\Solitaire\\Klondike\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A203F0D0-BE29-4DA4-93B6-60355E49D020}|Klondike\\Klondike.vcxproj|solutionrelative:Klondike\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A203F0D0-BE29-4DA4-93B6-60355E49D020}|Klondike\\Klondike.vcxproj|C:\\Users\\daeho\\source\\repos\\Solitaire\\Klondike\\KlonCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A203F0D0-BE29-4DA4-93B6-60355E49D020}|Klondike\\Klondike.vcxproj|C:\\Users\\daeho\\source\\Klondike\\Solitaire\\Klondike\\KlonCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A203F0D0-BE29-4DA4-93B6-60355E49D020}|Klondike\\Klondike.vcxproj|solutionrelative:Klondike\\KlonCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,23 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "KlonCard.h",
-              "DocumentMoniker": "C:\\Users\\daeho\\source\\repos\\Solitaire\\Klondike\\KlonCard.h",
+              "DocumentMoniker": "C:\\Users\\daeho\\source\\Klondike\\Solitaire\\Klondike\\KlonCard.h",
               "RelativeDocumentMoniker": "Klondike\\KlonCard.h",
-              "ToolTip": "C:\\Users\\daeho\\source\\repos\\Solitaire\\Klondike\\KlonCard.h",
+              "ToolTip": "C:\\Users\\daeho\\source\\Klondike\\Solitaire\\Klondike\\KlonCard.h",
               "RelativeToolTip": "Klondike\\KlonCard.h",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-27T09:18:46.992Z"
+              "WhenOpened": "2025-06-27T09:18:46.992Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\daeho\\source\\repos\\Solitaire\\Klondike\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\daeho\\source\\Klondike\\Solitaire\\Klondike\\main.cpp",
               "RelativeDocumentMoniker": "Klondike\\main.cpp",
-              "ToolTip": "C:\\Users\\daeho\\source\\repos\\Solitaire\\Klondike\\main.cpp",
-              "RelativeToolTip": "Klondike\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\daeho\\source\\Klondike\\Solitaire\\Klondike\\main.cpp*",
+              "RelativeToolTip": "Klondike\\main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-27T08:57:47.501Z",
               "EditorCaption": ""
